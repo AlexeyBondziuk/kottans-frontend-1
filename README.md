@@ -7,7 +7,11 @@
 3. [Git for Team Collaboration](#git-for-team-collaboration)
 4. [Intro to HTML and CSS](#intro-to-html-and-css)
 5. [Responsive Web Design](#responsive-web-design)
+<<<<<<< HEAD
   5.1 [HTML CSS Practice](#html-css-practice)
+=======
+  5.1 [HTML CSS Practice](#html-css-pactice)
+>>>>>>> 8e2648c4f44b1fad9272529c1f376ad7f26619f8
 6. [JS Basics](#js-basics)
 
 
@@ -374,6 +378,19 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 [Back](#kottans-frontend)
 
 ----
+<<<<<<< HEAD
+=======
+
+## HTML CSS practice
+### HTML-CSS-Popup
+![popup](./html-css-popup/css-html-popup.png)
+
+[Demo](https://mustbefail.github.io/frontend-2021-homeworks/submissions/mustbefail/html-css-popup/) 
+[Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/html-css-popup)
+
+----
+
+>>>>>>> 8e2648c4f44b1fad9272529c1f376ad7f26619f8
 >***15 октября 2020***.
 
 ## HTML CSS practice
@@ -389,8 +406,11 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 
 ## JS Basics
 
+<<<<<<< HEAD
 добавь конспект
 
+=======
+>>>>>>> 8e2648c4f44b1fad9272529c1f376ad7f26619f8
 <details>
 <summary>Screenshots</summary>
 
