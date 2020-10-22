@@ -7,6 +7,7 @@
 3. [Git for Team Collaboration](#git-for-team-collaboration)
 4. [Intro to HTML and CSS](#intro-to-html-and-css)
 5. [Responsive Web Design](#responsive-web-design)
+  5.1 [HTML CSS Practice](#html-css-pactice)
 6. [JS Basics](#js-basics)
 
 
@@ -31,8 +32,12 @@
 ## Linux CLI, and HTTP
 
 ### Linux CLI
+<details>
+<summary>Screenshots</summary>
 
 ![Image alt text](./task_linux_cli/progress.gif)
+</details>
+
 
 ***Интерфейс командной строки Линукс aka командная строка*** - универсальный интерфейс управления операционными системами на основе Linux, и некоторыми другими POSIX системами. Кстати, терминал и командный интерпретатор (CLI) - разные понятия. Терминал - программа которая эмулирует поведение *железного* терминала.
 CLI - программа для управления ОС.
@@ -81,8 +86,12 @@ etc. ***Тысячи их.***
 ----
 
 ## Git for Team Collaboration
+<details>
+<summary>Screenshots</summary>
 
 ![Image alt text](./task_git_collaboration/github-and-colab.png)
+</details>
+
 
 Самая важная часть git - работа в команде над проектом. В этом помогает Github - один из популярных, если не самый популярный репозиторий кода, и такие команды git как **push, pull, fetch, merge** и другие.
 
@@ -95,7 +104,13 @@ etc. ***Тысячи их.***
 
 ## Intro to HTML and CSS
 
+<details>
+
+<summary> Screenshots </summary>
+
 ![img](./task_html_css_intro/html-css.gif)
+
+</details>
 
 ### HTML
 
@@ -329,12 +344,24 @@ HTML является одним из трех столпов современн
 
 ### Основы адаптивного дизайна
 
+<details>
+<summary>Screenshots</summary>
+
 ![design](./task_responsive_web_design/responsive.png)
+
+</details>
+
 Добавить отзыв
 
 ### Flexbox
 
+<details>
+<summary>Screenshots</summary>
+
 ![design](./task_responsive_web_design/flex-box.png)
+
+</details>
+
 
 #### Grid
 
@@ -348,10 +375,25 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 
 ----
 
+## HTML CSS practice
+### HTML-CSS-Popup
+![popup](./html-css-popup/css-html-popup.png)
+
+[Demo](https://mustbefail.github.io/frontend-2021-homeworks/submissions/mustbefail/html-css-popup/) 
+[Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/html-css-popup)
+
+----
+
 >***15 октября 2020***.
 
 ## JS Basics
 
-### IntroJS Udacity
+<details>
+<summary>Screenshots</summary>
 
-  ![introJs](./task_js_basics/jsIntro.png)
+### IntroJS Udacity
+![introJs](./task_js_basics/jsIntro.png)
+
+### IntroJS FreeCodeCamp
+![introJs](./task_js_basics/jsBasicFCC.png)
+</details>
