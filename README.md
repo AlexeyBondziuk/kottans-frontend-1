@@ -402,3 +402,40 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 ### IntroJS FreeCodeCamp
 ![introJs](./task_js_basics/jsBasicFCC.png)
 </details>
+
+
+>***26 октября 2020***
+
+## DOM
+
+### Udacity DOM
+
+<details>
+<summary>Screenshots</summary>
+
+![JSDOM](./task_js_dom/jsDOM.png)
+
+</details>
+
+### FreeCodeCamp
+
+<details>
+<summary>Screenshots</summary>
+
+![JSDOM](./task_js_dom/jsFCC.png)
+
+</details>
+
+
+### JS DOM task(sidebar)
+
+<details>
+<summary>Screenshots</summary>
+
+![JSDOM](./task_js_dom/sidebar.png)
+
+[Demo](https://mustbefail.github.io/frontend-2021-homeworks/submissions/mustbefail/dom-api-task/)
+
+[Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/dom-api-task/submissions/mustbefail/dom-api-task)
+
+</details>
