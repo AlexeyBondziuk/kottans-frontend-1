@@ -11,6 +11,7 @@
     5.1 [HTML CSS Practice](#html-css-practice)
 
 6. [JS Basics](#js-basics)
+7. [JS DOM](#dom)
 
 
 ----
