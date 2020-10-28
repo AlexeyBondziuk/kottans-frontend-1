@@ -440,3 +440,9 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 [Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/dom-api-task/submissions/mustbefail/dom-api-task)
 
 </details>
+
+## A Tiny JS World
+
+[Demo](https://mustbefail.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/mustbefail/frontend-2021-homeworks/tree/tiny-js-world/submissions/mustbefail/tiny-js-world)
+
