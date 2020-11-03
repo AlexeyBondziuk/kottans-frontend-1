@@ -448,7 +448,7 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 [Code base](https://github.com/mustbefail/frontend-2021-homeworks/tree/tiny-js-world/submissions/mustbefail/tiny-js-world)
 
 ## Object Oriented JS
-
+[Codewar profile](https://www.codewars.com/users/_tipsyAlien)
 <details>
 <summary>Screenshots</summary>
 
