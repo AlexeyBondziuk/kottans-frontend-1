@@ -12,7 +12,8 @@
 
 6. [JS Basics](#js-basics)
 7. [JS DOM](#dom)
-
+8. [A Tiny JS World](#a-tiny-js-world)
+8. [Object Oriented JS](#object-oriented-js)
 
 ----
 
@@ -446,3 +447,20 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 [Demo](https://mustbefail.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/mustbefail/frontend-2021-homeworks/tree/tiny-js-world/submissions/mustbefail/tiny-js-world)
 
+## Object Oriented JS
+
+<details>
+<summary>Screenshots</summary>
+
+![JSOOP](./task_js_oop/udacityOOP.png)
+
+</details>
+
+### Frogger game
+<details>
+<summary>Screenshots</summary>
+
+![frogger](./task_js_oop/frogger-game.png)
+[Demo](https://mustbefail.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/frogger-game/submissions/mustbefail/frogger-game)
+
+</details>
