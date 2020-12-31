@@ -14,10 +14,11 @@
 7. [JS DOM](#dom)
 8. [A Tiny JS World](#a-tiny-js-world)
 8. [Object Oriented JS](#object-oriented-js)
-
+8. [Frogger Game](#frogger-game)
+8. [Post OOP](#post-oop)
+8. [Memory Pair Game](#memory-pair-game)
 ----
 
-> ***12 октября 2020***
 
 ## GIT
 
@@ -104,7 +105,6 @@ etc. ***Тысячи их.***
 [Back](#kottans-frontend)
 
 ----
-> ***13 октября 2020***
 
 ## Intro to HTML and CSS
 
@@ -289,7 +289,6 @@ HTML является одним из трех столпов современн
 * Селектор класса - определяется атрибутом **class** html элемента, в css доступен через точку ```.class-selector```. Элемент может иметь сколько угодно классов.
 * Селектор по идентификатору -  - определяется атрибутом **id** html элемента, доступен через хэш ```#class-selector```.
 
->***14 октября 2020***.
 
 #### Работа с текстом
 
@@ -342,6 +341,7 @@ HTML является одним из трех столпов современн
 Свойство CSS z-index указывает, как дальше(глубже) или ближе будет отображаться элемент на веб-странице, когда он перекрывает другие элементы. Свойство z-index использует целочисленные значения, которые могут быть положительными или отрицательными. Элемент с наибольшим значением z-индекса будет на переднем плане, а элемент с наименьшим значением z-индекса будет на заднем плане.
 
 [Back](#kottans-frontend)
+
 ----
 
 ## Responsive Web Design
@@ -389,7 +389,6 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 
 [Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/html-css-popup)
 
->***23 октября 2020***
 
 ## JS Basics
 
@@ -405,8 +404,7 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 ![introJs](./task_js_basics/jsBasicFCC.png)
 </details>
 
-
->***26 октября 2020***
+[Back](#kottans-frontend)
 
 ## DOM
 
@@ -456,11 +454,22 @@ CSS Grid Layout (также известный как «Grid») - это дву�
 
 </details>
 
-### Frogger game
+[Back](#kottans-frontend)
+
+## Frogger game
 <details>
 <summary>Screenshots</summary>
 
 ![frogger](./task_js_oop/frogger-game.png)
-[Demo](https://mustbefail.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/frogger-game/submissions/mustbefail/frogger-game)
 
 </details>
+
+[Demo](https://mustbefail.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/mustbefail/frontend-2021-homeworks/tree/frogger-game/submissions/mustbefail/frogger-game) | [Back](#kottans-frontend)
+
+## Post OOP
+
+[Demo](https://mustbefail.github.io/a-tiny-JS-world/) | [Code](https://github.com/mustbefail/a-tiny-JS-world) | [Back](#kottans-frontend)
+
+## Memory Pair Game
+
+[Demo](https://mustbefail.github.io/memory-pair-game/) | [Code](https://github.com/mustbefail/memory-pair-game) | [Back](#kottans-frontend)
